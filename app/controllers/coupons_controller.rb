@@ -1,2 +1,2 @@
-class CouponController < ApplicationController 
+class CouponsController < ApplicationController
 end
